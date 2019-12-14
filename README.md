@@ -1,5 +1,5 @@
 # nanomarkov
-123 bytes Markov chain text generator, the entry for [#NNNGM competition](https://nickm.com/post/2019/11/nano-nanogenmo-or-nnngm/)
+123 bytes Markov chain text generator, [my entry](https://twitter.com/altsoph/status/1200815956420890626) for [#NNNGM competition](https://nickm.com/post/2019/11/nano-nanogenmo-or-nnngm/)
 
 ![code](https://github.com/altsoph/nanomarkov/blob/master/code.png?raw=true)
 
